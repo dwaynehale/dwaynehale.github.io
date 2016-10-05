@@ -22,6 +22,9 @@ url: "https://dwaynehale.github.io" # the base hostname & protocol for your site
 twitter_username: dwaynehale
 github_username:  dwaynehale
 
+
+name: Dwayne Hale
+tagline: Full Stack Developer
 # Build settings
 markdown: kramdown
 theme: minima
